@@ -11,7 +11,7 @@ import SwiftUI
 struct Draw_on_Draw_offApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SymbolDrawDemo()
         }
     }
 }
